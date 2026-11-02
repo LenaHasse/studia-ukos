@@ -1,0 +1,33 @@
+top - 14:13:45 up  2:01,  1 user,  load average: 0.09, 0.09, 0.09
+Tasks:  26 total,   1 running,  25 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :  15911.9 total,  15181.6 free,    620.3 used,    306.8 buff/cache     
+MiB Swap:   4096.0 total,   4096.0 free,      0.0 used.  15291.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   24192  15408  11584 S   0.0   0.1   0:00.41 systemd
+      2 root      20   0    3804   2508   2376 S   0.0   0.0   0:00.00 init-sy+
+      3 root      20   0    3664   2136   2040 S   0.0   0.0   0:00.00 init-wa+
+      8 root      20   0    3848   2440   2300 S   0.0   0.0   0:00.06 init
+     45 root      19  -1   50652  17368  16048 S   0.0   0.1   0:00.12 systemd+
+     80 systemd+  20   0   22420  14528  12044 S   0.0   0.1   0:00.05 systemd+
+     88 root      20   0   35016  12260   9196 S   0.0   0.1   0:00.21 systemd+
+    107 root      20   0    2888   1940   1816 S   0.0   0.0   0:00.03 chronyd+
+    108 root      20   0    4472   3180   2924 S   0.0   0.0   0:00.00 cron
+    109 message+  20   0    8804   5352   4672 S   0.0   0.0   0:00.03 dbus-da+
+    113 root      20   0   44096  29824  14692 S   0.0   0.2   0:00.14 network+
+    117 root      20   0   18444   9456   8200 S   0.0   0.1   0:00.06 systemd+
+    194 root      20   0    5492   2768   2584 S   0.0   0.0   0:00.00 agetty
+    198 syslog    20   0  220548   5828   4532 S   0.0   0.0   0:00.04 rsyslogd
+    219 _chrony   20   0   20424   6360   5576 S   0.0   0.0   0:00.06 chronyd
+    221 root      20   0  123464  32716  18104 S   0.0   0.2   0:00.13 unatten+
+    227 _chrony   20   0   12096   2456   1808 S   0.0   0.0   0:00.00 chronyd
+    334 root      20   0    3820   1416   1284 S   0.0   0.0   0:00.00 Session+
+    335 root      20   0    3888   1484   1284 S   0.0   0.0   0:00.05 Relay(3+
+    336 lena      20   0    6376   5652   3916 S   0.0   0.0   0:00.09 bash
+    337 root      20   0    8644   5624   4784 S   0.0   0.0   0:00.00 login
+    380 lena      20   0   22360  13568  10928 S   0.0   0.1   0:00.08 systemd
+    382 lena      20   0   22924   4128   2124 S   0.0   0.0   0:00.00 (sd-pam)
+    408 lena      20   0    6136   5416   3864 S   0.0   0.0   0:00.02 bash
+    948 lena      20   0    4948   3700   3420 S   0.0   0.0   0:00.00 zadanie+
+    950 lena      20   0    8164   5576   3572 R   0.0   0.0   0:00.00 top
