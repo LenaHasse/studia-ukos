@@ -1,0 +1,6 @@
+Imię	Nazwisko	Płeć	Wiek
+Toemk	Kowal	chlop	45
+Toemk			
+Toemk			
+tomek	kowal	chlop	45
+klara	nicpon	dziolcha	45
